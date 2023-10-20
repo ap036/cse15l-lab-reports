@@ -3,8 +3,8 @@
 Running the following commands: ```cd```, ```ls```, and ```cat``` with no argument, with a path to a directory as an argument, and a path to a file as an argument. 
 
 1. ```cd``` with no argument
-![Image](cd_no_arg1.png)
-This is not an error, as the command to change directory will just return the user to the home directory if no argument is given. Working directory when the command was run:/home/lecture1
+![Image](cd_no_arg.png)
+This is not an error, as the command to change directory will just return the user to the home directory if no argument is given. Working directory when the command was run:/home/lecture1.
 
 2. ```ls``` with no argument
 ![Image](ls_no_arg.png)
