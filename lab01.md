@@ -4,7 +4,7 @@ Running the following commands: ```cd```, ```ls```, and ```cat``` with no argume
 
 1. ```cd``` with no argument
 ![Image](cd_no_arg.png)
-This is an error since the command to change directory cannot exceute without being given another directory to move to.
+This is not an error, as the command to change directory will just print the working directory if no argument is given.
 
 2. ```ls``` with no argument
 ![Image](ls_no_arg.png)
@@ -16,24 +16,24 @@ This is an error, as cat will print out what is present in a file. Had to use co
 
 4. ```cd``` to directory
 ![Image](cd_dir.png)
-This changed the working directory from home to the directory inlcuded in the argument - lecture1.
+This is not an error, it changed the working directory from home to the directory included in the argument - lecture1.
 
 5. ```ls``` of directory
 ![Image](ls_dir.png)
-This shows all the contents of this directory inlcuding other directories and files, it will work with or without an argument as long as the directory is not empty.
+This is not an error, it shows all the contents of this directory including other directories and files, it will work with or without an argument as long as the directory is not empty.
 
 6. ```cat``` of directory
 ![Image](cat_dir.png)
-This shows an error as the cat command only works on files not directories.
+This is an error, as the cat command only works on files not directories.
 
 7. ```cd``` to file
 ![Image](cd_file.png)
-This is an error as the cd command only works for directories not files.
+This is an error, as the cd command only works for directories not files.
 
 8. ```ls``` of file
 ![Image](ls_file.png)
-This just outputs the same file as there is nothing else in the file.
+This is not an error, it just outputs the same file as there is nothing else in the file.
 
 9. ```cat``` of file
 ![Image](cat_file.png)
-This prints out the contents of the file and work on multiple files given in the same argument.
+This is not an error, it prints out the contents of the file and works on multiple files given in the same argument.
