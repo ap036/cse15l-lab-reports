@@ -1,6 +1,6 @@
 ## Lab Report 2
 
-
+**Part 1:**
 
 1. String Server Code:
 ```
@@ -55,3 +55,17 @@ Hello Webserver Example
 3. How are you?
 ![Image](Screen Shot 2023-10-22 at 11.52.08 PM.png)
 How are you webserver example
+
+
+**Part 2:**
+
+1. Path to the private key for SSH key:
+
+2. Path to the public key for SSH key:
+
+3. Logging into ieng6 without password:
+
+
+**Part 3:**
+
+
