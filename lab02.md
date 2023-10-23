@@ -52,7 +52,7 @@ class SearchEngine {
 ![Image](Screen Shot 2023-10-22 at 11.51.52 PM.png)
 Hello Webserver Example
 
-3. How are you?
+4. How are you?
 ![Image](Screen Shot 2023-10-22 at 11.52.08 PM.png)
 How are you webserver example
 
@@ -60,12 +60,14 @@ How are you webserver example
 **Part 2:**
 
 1. Path to the private key for SSH key:
+![Image](private_key.png)
 
-2. Path to the public key for SSH key:
+3. Path to the public key for SSH key:
+![Image](public_key.png)
 
-3. Logging into ieng6 without password:
-
+5. Logging into ieng6 without password:
+![Image](no_pw_login.png)
 
 **Part 3:**
 
-
+In week 2 and 3 I learned how to create an ssh key pair and login to a remote server without a password which was both new to me. While I often use ssh for tasks I would enter my password each time so this is a more efficient login process I am excited to keep using.
