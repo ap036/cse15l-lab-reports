@@ -12,7 +12,7 @@ This is not an error, ls will print all the files in the current directory even 
 
 3. ```cat``` with no argument
 ![Image](cat_no_arg.png)
-This is an error, as cat will print out what is present in a file. Had to use control + c to exit the terminal. Working directory when the command was run: /home
+This is not an error, as cat with no argument will take user input and echo it back to the command line. Have to use control + c to exit the terminal. Working directory when the command was run: /home
 
 4. ```cd``` to directory
 ![Image](cd_dir.png)
