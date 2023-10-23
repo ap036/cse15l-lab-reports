@@ -49,24 +49,24 @@ class SearchEngine {
 ```
 
 2. Hello
-![Image](Screen Shot 2023-10-22 at 11.51.52 PM.png)
+![Image](lab02_pngs/hello.png)
 Hello Webserver Example
 
 4. How are you?
-![Image](Screen Shot 2023-10-22 at 11.52.08 PM.png)
+![Image](lab02_pngs/how_are_you.png)
 How are you webserver example
 
 
 **Part 2:**
 
 1. Path to the private key for SSH key:
-![Image](private_key.png)
+![Image](lab02_pngs/private_key.png)
 
 3. Path to the public key for SSH key:
-![Image](public_key.png)
+![Image](lab02_pngs/public_key.png)
 
 5. Logging into ieng6 without password:
-![Image](no_pw_login.png)
+![Image](lab02_pngs/no_pw_login.png)
 
 **Part 3:**
 
