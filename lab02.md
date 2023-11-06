@@ -48,13 +48,13 @@ class SearchEngine {
 }
 ```
 
-2. Hello
+2. "Hello" Webserver Example
 ![Image](lab02_pngs/hello.png)
-Hello Webserver Example
+The method `handlerequest` is called and the relevant argument is the second if statement which checks for "/add" in the URI input, then prints out whatever is in the query after that. The counter is used for the `int` portion which adds a number to the string output. In this first example, we see "1. Hello" is printed.
 
-4. How are you?
+4. "How are you?" Webserver Example
 ![Image](lab02_pngs/how_are_you.png)
-How are you webserver example
+Similarly, the method `handlerequest` is called and the relevant argument is the second if statement which checks for "/add" in the URI input, then prints out whatever is in the query after that. The counter is used for the `int` portion which adds a new number to the string output. Here the URI remains the same until we get to the query as we have a phrase instead of a single word in the message. Since the first string is also saved the next int value is used and the counter value increases by 1. Now we see "1. Hello" and "2. How+are+you?" is printed below it in a new line.
 
 
 **Part 2:**
