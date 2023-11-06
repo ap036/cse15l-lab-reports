@@ -4,6 +4,7 @@
 
 1. String Server Code:
 ```
+
 import java.io.IOException;
 import java.net.URI;
 
@@ -46,6 +47,7 @@ class SearchEngine {
         Server.start(port, new Handler());
     }
 }
+
 ```
 
 2. "Hello" Webserver Example
@@ -70,4 +72,4 @@ Similarly, the method `handlerequest` is called and the relevant argument is the
 
 **Part 3:**
 
-In week 2 and 3 I learned how to create an ssh key pair and login to a remote server without a password which was both new to me. While I often use ssh for tasks I would enter my password each time so this is a more efficient login process I am excited to keep using.
+In week 2 and 3 I learned how to create an ssh key pair and login to a remote server without a password which was both new to me. I often use ssh for tasks and I would enter my password each time so this is a more efficient login process I am excited to keep using.
