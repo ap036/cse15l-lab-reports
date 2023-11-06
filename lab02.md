@@ -54,7 +54,7 @@ The method `handlerequest` is called and the relevant argument is the second if 
 
 4. "How are you?" Webserver Example
 ![Image](lab02_pngs/how_are_you.png)
-Similarly, the method `handlerequest` is called and the relevant argument is the second if statement which checks for "/add" in the URI input, then prints out whatever is in the query after that. The counter is used for the `int` portion which which formats the output by adding its value in front of the string. Here the URI remains the same until we get to the query as we have a phrase instead of a single word in the message it extracts the new query and the counter is incremented. Since the first string is also saved the next counter value is used to format the output. Now we see "1. Hello" and "2. How+are+you?" is printed below it in a new line.
+Similarly, the method `handlerequest` is called and the relevant argument is the second if statement which checks for "/add" in the URI input, then prints out whatever is in the query after that. The counter is used for the `int` portion which which formats the output by adding its value in front of the string. Here the URI remains the same until we get to the query as we have a phrase instead of a single word in the message. Hence, it extracts the new query and the counter is incremented and because the first string is also saved, the next counter value is used to format the output. Now we see "1. Hello" and "2. How+are+you?" is printed below it in a new line.
 
 
 **Part 2:**
