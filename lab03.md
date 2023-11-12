@@ -24,12 +24,13 @@ b) Successful input:
 	}
 ```
 
-c) Symptom:
-```
-There was 1 failure:
-1)testreverseInPlace_1(ArrayTests)
-arrays first differed at element [0]; expected: <3> but was: <1>
-```
+c) Symptoms:
+
+Running failure-inducing tes:
+
+
+Running succesful test:
+
 
 d) Code before fixing bug:
 ```
