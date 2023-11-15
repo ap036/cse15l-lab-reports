@@ -27,10 +27,10 @@ b) Successful input:
 c) Symptoms:
 
 Running failure-inducing test:
-![Image]()
+![Image](failure_test.png)
 
 Running succesful test:
-![Image]()
+![Image](success_test.png)
 
 d) Code before fixing bug:
 ```
