@@ -27,10 +27,10 @@ b) Successful input:
 c) Symptoms:
 
 Running failure-inducing test:
-![Image](failure_test.png)
+![Image](lab03_pngs/failure_test.png)
 
 Running succesful test:
-![Image](success_test.png)
+![Image](lab03_pngs/success_test.png)
 
 d) Code before fixing bug:
 ```
@@ -63,39 +63,39 @@ I chose to research command-line options for the `grep` command. The four differ
 a) -i (ignore-case)
 
 Example with directory:
-![Image](directory_i.png)
+![Image](lab03_pngs/directory_i.png)
 
 Example with file:
-![Image](file_i.png)
+![Image](lab03_pngs/file_i.png)
 
 This option is useful when you want to find all the instances of a word regardless of capitalization. For example when searching for the word "Chapter" and you notice that in the various files and directories it is written as "Chapter" or "chapter" this option will output all of them. 
 
 b) -v (invert-match)
 
 Example with directory:
-![Image](directory_v.png)
+![Image](lab03_pngs/directory_v.png)
 
 Example with file:
-![Image](file_v.png)
+![Image](lab03_pngs/file_v.png)
 
 This option is useful when selecting all the non-matching lines. For example, if you search for "the" it will return everything other than all the instances of that word.
 
 c) -r (recursive)
 
 Example with directory:
-![Image](directory_r.png)
+![Image](lab03_pngs/directory_r.png)
 
 Example with file:
-![Image](file_r.png)
+![Image](lab03_pngs/file_r.png)
 
 This option is useful when you want to search for a specific pattern in an entire directory tree, as it recursively searches in each directory and all its subdirectories.
 
 d) -H (with-file)
 
 Example with directory:
-![Image](directoryH.png)
+![Image](lab03_pngs/directoryH.png)
 
 Example with file:
-![Image](fileH.png)
+![Image](lab03_pngs/fileH.png)
 
 This option prints out the filename first and then the lines in which the specific pattern is found, useful when you want to move files or examine patterns in a larger scale.
