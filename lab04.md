@@ -8,11 +8,11 @@ I pressed `<tab>` 7 times to get my ssh username and pressed `<enter>`.
 
 Step 5:
 ![Image](lab04_pngs/step5.png)
-I pressed `<tab>` 9 times till I got to the line that said git clone with the copied ssh url from the forked github repository then pressed `<enter>`. 
+I pressed `<tab>` 9 times till I got to the line that said git clone with the copied ssh url from the forked github repository then pressed `<enter>`. Next, I pressed `<tab>` 7 to get to `cd lab7` and pressed `<enter>`.
 
 Step 6:
 ![Image](lab04_pngs/step6.png)
-I pressed `<tab>` 7 to get to `cd lab7` and pressed `<enter>`. Next `<tab>` 4 times for `bash test.sh` then `<enter>` to run the tests.
+I pressed `<tab>` 4 times for `bash test.sh` then `<enter>` to run the tests.
 
 Step 7:
 ![Image](lab04_pngs/step7.png)
